@@ -31,5 +31,6 @@ int main()
     std::cout << "Atlag: " << atlag << std::endl;
 
     delete[] b;
+        std::cout << "Új szöveg" << std::endl;
     return 0;
 }
